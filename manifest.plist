@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://localhost/html5/com.daling.daling.ipa</string>
+					<string>https://github.com/lmyscx/LOCKit/blob/master/back.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://localhost/html5/com.daling.daling.ipa</string>
+					<string>https://github.com/lmyscx/LOCKit/blob/master/back.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
